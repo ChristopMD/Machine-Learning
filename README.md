@@ -1,2 +1,2 @@
 # Machine-Learning
-Different techniques of Machine learning
+Tecnicas de procesamiento de datos y comparación de modelos de Machine Learning
